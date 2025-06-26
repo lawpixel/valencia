@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lawpixel.github.io/valencia/
